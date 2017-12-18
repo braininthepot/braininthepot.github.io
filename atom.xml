@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>통속의뇌</title>
+  <title>냄비속뇌</title>
   
-  
+  <subtitle>문과생이 개발자 입문을 핑계로 쓰는 일상</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://braininthepot.github.io/"/>
